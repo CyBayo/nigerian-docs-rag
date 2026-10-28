@@ -1,0 +1,6 @@
+file,title,reference,date,url,status
+PSS-DIR-PUB-CIR-001-001_2025-08-25.pdf,"Circular on ISO 20022 migration and geo-tagging of payment terminals",PSS/DIR/PUB/CIR/001/001,2025-08-25,,amended
+PSD-DIR-PUB-CIR-001-002_2026-03-12.pdf,"Guidance on the Operations of Instant Payment",PSD/DIR/PUB/CIR/001/002,2026-03-12,https://www.cbn.gov.ng/Out/2026/CCD/IP%20Circular.pdf,unsure
+PSS-DIR-PUB-CIR-001-003_2026-05-29.pdf,"Revised Implementation Timeline and Enforcement on POS Geo-Fencing",PSS/DIR/PUB/CIR/001/003,2026-05-29,https://www.cbn.gov.ng/Out/2026/CCD/Revised%20Implementation%20Timeline%20and%20Enforcement%20on%20POS%20GEO-Fencing.pdf,current
+PSS-DIR-PUB-CIR-001-004_2026-06-15.pdf,"Introduction of Market Structure Requirements, Data Localisation, Ultimate Beneficial Ownership Disclosure, and Systemic Oversight Measures in the Nigeria Payments System",PSS/DIR/PUB/CIR/001/004,2026-06-15,"https://www.cbn.gov.ng/Out/2026/CCD/CIRCULAR%20ON%20INTRODUCTION%20OF%20MARKET%20STRUCTURE%20REQUIREMENTS,%20DATA%20LOCALISATION,%20ULTIMATE%20BENEFICIAL%20OWNERSHIP%20DISCLOSURE,%20AND%20SYSTEMIC%20OVERSIGHT%20MEASURES%20IN%20THE%20NIGERIA%20PAYMENTS%20SYSTEM.pdf",current
+EOFcat > data/sources.csv << 'EOF'

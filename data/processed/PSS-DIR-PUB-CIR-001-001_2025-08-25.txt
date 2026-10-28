@@ -1,0 +1,92 @@
+=== Page 1 ===
+Central Bank of Nigeria
+Payments System Supervision Department
+Plot 33, Abubakar Tafawa Balewa Way
+Central Business District
+P.M.B. 0187 Garki, Abuja - Nigeria.
+E-mail: psmd@cbn.gov.ng
+Website: www.cbn.gov.ng
+Phone: +234 700 225 5226, +2348002255226
+PSS/DIR/PUB/CIR/001/001
+August 25, 2025
+CIRCULAR TO:
+All Deposit Money Banks, (DMBs)
+Microfinance Banks (MFBs)
+Mobile Money Operators (MMOs),
+Switching and Processing Companies,
+Payment TerminalService Providers (PTSPs),
+Payment Solution Service Providers (PSSPs),
+Super Agents,
+Any Other Licensed Operators in the Nigerian Payments Ecosystem.
+MIGRATION TO ISO 20022 STANDARD FOR PAYMENT MESSAGING AND
+MANDATORY GEO-TAGGING OF PAYMENT TERMINALS
+Fur     r a    sr rd  the
+migration to the ISO 20022 messaging standard for payments and settlement
+messaging and in alignment with the SWIFT global migration timelines (circulars
+BKS/DIR/GEN/CIR/07/017 and BKS/CRO/GEN/BNK/04/061, dated July 17, 2020 and
+September 23, 2020 respectively), all licensed operators are hereby reminded that
+ISO 20022 is the standard for payment messaging to support Nigeria's payments
+objective of ensuring standardized quality data.
+In addition to previous migration instructions, the following directives now apply to all
+institutions in scope:
+ISO 20022 Compliance
+i.
+All payment transaction messages exchanged domestically or
+internationally must bé formatted in ISO 20022 in line with CBN and
+SWIFT specifications.
+ii.
+All Institutions shall ensure complete and accurate population of
+mandatory data elements, including payer/payee identifiers,
+merchant/agent identifiers, and transaction metadata.
+iii.
+All in-scope institutions must complete migration activities and be fully
+compliant not later thanOctober 31, 2025.
+Page 1 of 2
+
+=== Page 2 ===
+Terminal Geo-Location
+i.
+All existing and newly deployed payment terminals must have native
+geolocation services enabled, with Double-Frequency GPS receivers for
+reliablegeo-location service.
+ii.
+PMat maint  is   wns wt d bnal
+Service Aggregator (PTSA) with accurate latitude/longitude coordinates
+indicating the Merchant/Agent place of business/service and status.
+iii.
+All Operators (PTSAs, PTSPs, PTADs, Acquirers) are to ensure their PoS
+Terminals and Applications are duly certified by the National Central
+Switch to align with the listed standards.
+iv.
+As part of the Certification process, all payment terminals must have the
+National Central Switch SDK for Geolocation monitoring and Geofencing
+implemented within the libraries of its PoSApplication.
+V.
+Android Operating System (OS) v10 is the minimum OS requirement
+across all terminals to ensure compatibility and seamless integration with
+the National Central Switch Geolocation SDK.
+vi.
+The SDK for geolocation monitoring must be initialized at the registered
+business/servicelocation.
+vii.
+A radius of 10 meters outside the registered business/service location is
+the permitted geofence for all merchant activity.
+viii.
+Geo-location data must be captured at transaction initiation and included
+in the message payload as a mandatory reporting field.
+ix.
+Terminals not directly routed to a PTSA are not permitted to transact.
+X.
+All existing terminals and newly registered terminals must ensure strict
+adherence always to approved MSC code per sector.
+xi.
+All existing terminals must be geo-tagged within 60 days of this circular;
+new terminals going forward must be geo-tagged before certification and
+activation.
+Note: CBN will commence compliance validation exercises from October 20, 2025
+Thank you.
+25105/25
+Rakiya O. Yusuf, PhD.
+Director, Payments System Supervision Department
+Page 2 of 2
+

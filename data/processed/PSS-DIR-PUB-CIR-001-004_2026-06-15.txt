@@ -1,0 +1,106 @@
+=== Page 1 ===
+Page 1 of 2  
+Central Bank of Nigeria 
+Payments System Supervision Department 
+Plot 33, Abubakar Tafawa Balewa Way 
+Central Business District 
+P.M.B 0187 Garki, Abuja-Nigeria. 
+E-mail: pssd@cbn.gov.ng 
+Website: www.cbn.gov.ng 
+Phone: +234 700 225 5226, +234800 225 5226 
+PSS/DIR/PUB/CIR/001/004 
+ 
+CIRCULAR TO: 
+All Deposit Money Banks (DMBs), 
+Microfinance Banks (MFBs), 
+Mobile Money Operators (MMOs), 
+Switching and Processing Companies, 
+Payment Terminal Service Providers (PTSPs), 
+Payment Solution Service Providers (PSSPs), 
+Super Agents, 
+Other Licensed Operators in the Nigerian Payments Ecosystem. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+June 15, 2026 
+ 
+INTRODUCTION OF MARKET STRUCTURE REQUIREMENTS, DATA  
+LOCALISATION, ULTIMATE BENEFICIAL OWNERSHIP DISCLOSURE, AND 
+SYSTEMIC OVERSIGHT MEASURES IN THE NIGERIA PAYMENTS SYSTEM 
+ 
+ 
+The Central Bank of Nigeria (CBN) has  observed significant structural developments 
+within the Nigerian Payments ecosystem, characterised by rapid growth in electronic 
+payments, increasing adoption of digital financial services, and the emergence of 
+operators with substantial market presence across key payment activities. 
+ 
+While these developments have supported innovation, efficiency , and financial inclusion , 
+they have also raised concerns relating to market concentration, operational 
+dependence, systemic importance, transparency of ownership structures , and the 
+localisation of critical payment data. 
+ 
+Accordingly, the CBN hereby issues this Circular to improve transparency through 
+beneficial ownership disclosure, address concentration risk, promote a fair, competitive, 
+and resilient payments ecosystem. The Circular further aims to safeguard the integrity of 
+the Nigerian payments system and ensure the localisation of payments transaction data 
+within Nigeria. 
+ 
+In this regard, 
+ 
+1. All Deposit Money Banks, Payment Service Providers and Other Financial Institutions 
+with digital payments footprints shall disclose the Ultimate Beneficial Ownership (UBO) 
+of significant shareholders in accordance with applicable e xtant laws and regulations 
+including Anti -Money Laundering, Combating the Financing of Terrorism and Counter 
+Proliferation Financing (AML/CFT/CPF) regulations. Institutions shall maintain accurate       
+
+
+=== Page 2 ===
+Page 2 of 2  
+and up-to-date UBO records and make such information available to the CBN upon 
+request. 
+ 
+2. All Financial Institutions and participants facilitating payments within Nigeria shall ensure 
+that payments transaction data generated within Nigeria are stored and managed in 
+Nigeria in accordance with data protection laws and regulations applicable in Nigeria. 
+Accordingly, all affected Financial Institutions shall fully comply with this requirement 
+effective January 1, 2027. 
+ 
+3. Market Structure Requirements: 
+ 
+For the  purpose of  this Circular, the definitions of  consumer issuing and  merchant 
+acquiring activities shall be as prescribed in the extant Guidelines on the Operations of 
+Electronic Payment Channels in Nigeria. 
+ 
+i. Any licensed financial institution engaged in c onsumer issuing activities, 
+whether individually or  part of a group of  related entities, that  holds more 
+than twenty-five percent (25%) market share in consumer issuing within any 
+rolling twelve-month period shall not hold more than fifteen percent (15%) 
+market share in merchant acquiring activities during the same period. 
+ 
+ii. Any licensed F inancial Institution engaged in merchant acquiring activities, 
+whether individually or as part of  group of related entities, that holds more than 
+twenty-five percent (25%) market share in merchants acquiring activities within 
+any rolling twelve -month period shall not hold more than fifteen percent (15%) 
+market share in consumer issuing activities during the same period. 
+ 
+iii. All regulated entities shall submit monthly market share returns in accordance 
+with prescribed templates and timelines. 
+ 
+iv. All affected Financial Institutions are required to take necessary measures to 
+achieve full compliance not later than December 31, 2026. 
+ 
+COMPLIANCE AND ENFORCEMENT 
+The CBN shall monitor compliance with the provisions of this Circular and may, where 
+necessary, impose supervisory sanctions in accordance with  applicable laws, regulations, 
+and guidelines. 
+ 
+Thank you 
+ 
+
+

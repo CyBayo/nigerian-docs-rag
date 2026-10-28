@@ -1,0 +1,40 @@
+=== Page 1 ===
+--
+Central Bank of Niaeria 
+Payments System Supervision department 
+Plot 33, Abubakar Tafawa Balewa Way 
+Central Business District 
+P.M.B 0187 Garki, Abuja-Nigeria. 
+E-mail: pssd@cbn.gov.ng 
+Website: www.cbn.gov.ng 
+Phone: +234 700 225 5226, +234 800 225 5226 
+PSS/DIR/PUB/CIR/001/003 
+CIRCULAR TO: 
+All Deposit Money Banks (DMBs), 
+Microfinance Banks (MFBs), 
+Mobile Money Operators (MMOs), 
+Switching and Processing Companies, 
+Payment Terminal Service Providers (PTSPs), 
+Payment Solution Service Providers (PSSPs), 
+Super Agents, 
+Other Licensed Operators in the Nigerian Payments Ecosystem. 
+May 29, 2026 
+REVISED IMPLEMENTATION TIMELINE AND ENFORCEMENT ON POS GEO-FENCING 
+Further to the Circular with reference number PSS/DIR/PUB/CIR/001/001 dated August 
+25, 2025 on migration to ISO 20022 standards for payments messaging, mandatory geo­
+tagging of payment terminals, and various stakeholders' engagement on the subject to 
+address the operationalization of the Circular, the Central Bank of Nigeria has considered 
+and approved the following: 
+i. Geo-fence radius is hereby increased from 10 metres to 70 metres. 
+ii. Enforcement of PoS Terminal Geo-fence is extended to August 1, 2026. 
+Evidence of compliance to the above should be addressed to the Director, Payments 
+System Supervision Department via paymentdata@cbn.gov.ng not later than July 31, 
+2026. 
+Financial institutions are required to resolve all operational issues with the National 
+Central Switch within the stipulated timeline to ease compliance. 
+Thank you. 
+Yours faithfully, 
+~~~· ~~ JeSf ~lb 
+Rakiya 0. u , Ph.D. 
+Director, Payments System Supervision Department 
+
